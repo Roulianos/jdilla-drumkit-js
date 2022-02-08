@@ -6,7 +6,7 @@ An Jdilla's inspired DrumKit.
 
 
 **Instruction:**
-- Go to https://roulianos.github.io/drumkit/
+- Go to https://roulianos.github.io/jdilla-drumkit-js/
 - Choose your samples with right click on a PAD
 - Play with Keyboard 
 

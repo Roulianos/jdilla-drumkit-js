@@ -1,7 +1,7 @@
 # DILLA'S DRUMKIT JS
 ## A DrumKit project in native JS.
 
-An Jdilla's inspired DrumKit
+An Jdilla's inspired DrumKit.
 
 **Instruction:**
 
@@ -18,4 +18,4 @@ Z  X  C  V
 >Works also with Mouse Click but it is not convenient.
 
 
->You also can change color of type of sample in the left menu
+>You also can change color of type of sample in the left menu.

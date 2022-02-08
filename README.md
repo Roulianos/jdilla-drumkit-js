@@ -1,5 +1,5 @@
 # DILLA'S DRUMKIT JS
-## A Jdilla's drumkit project in native JS.
+## A DrumKit project in native JS.
 
 An Jdilla's inspired DrumKit
 

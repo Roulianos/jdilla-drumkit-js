@@ -3,8 +3,10 @@
 
 An Jdilla's inspired DrumKit.
 
-**Instruction:**
 
+
+**Instruction:**
+- Go to https://roulianos.github.io/drumkit/
 - Choose your samples with right click on a PAD
 - Play with Keyboard 
 
@@ -20,5 +22,3 @@ Z  X  C  V
 
 >You also can change color of type of sample in the left menu.
 
-
-https://roulianos.github.io/drumkit/

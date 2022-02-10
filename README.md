@@ -1,7 +1,7 @@
 # DILLA'S DRUMKIT JS
 ## A DrumKit project in native JS.
 
-An Jdilla's inspired DrumKit.
+An Jdilla's inspired DrumKit only with Javascript.
 
 
 
